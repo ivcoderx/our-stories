@@ -48,6 +48,8 @@
 
 [Мой блог](http://blog.ivcoder.work)
 
+[Мой Hexlet](https://ru.hexlet.io/u/ivcoder)
+
 **https://github.com/ivcoderx/our-stories/blob/master/stories/long-road.md**
 
 ---
